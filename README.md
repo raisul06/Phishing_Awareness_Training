@@ -8,9 +8,11 @@ A short training module that teaches how to spot phishing emails and fake websit
 
 | File | Description |
 |---|---|
-| `Phishing_Awareness_Training.pdf` | 11-slide training deck |
+| `Phishing_Awareness_Training.pdf` | 12-slide training deck |
+| `Phishing_Awareness_Training_Presenter_Script` | Presentation script |
 | `index.html` | Interactive 8-question scenario quiz (self-contained HTML/CSS/JS, no dependencies) |
 | `README.md` | This file |
+
 
 ## Live quiz
 
